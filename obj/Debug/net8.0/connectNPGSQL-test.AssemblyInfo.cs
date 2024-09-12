@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("connectNPGSQL-test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+857f74553b9d1dd277e6bd83205f519c2719a966")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5b30b2625a6690c1567d460986cb7efb2b3a3c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("connectNPGSQL-test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("connectNPGSQL-test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
